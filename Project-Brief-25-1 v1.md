@@ -9,7 +9,7 @@
 |05|[무한도전](#team-05)|  AI 기반 카메라 인식 기술과 위치 기반 매칭을 활용해, 집에서 잠자고 있는 외화를 근처 사용자와 간편하게 거래하는 P2P 환전 플랫폼.
 |06|[Goggle](#team-06)| LangChain 기반 AI 바둑 복기(復棋) 서비스 : 중급자 실력 향상을 위한 맞춤형 LLM해설 지원
 |07|[테스파](#team-07)| Back-Pack: Collaborative Knowledge Transfer with Diverse Backbone Selection Beyond Modality
-|08|[eiai](#team-08)| Transformer Architecture Search with Hardware Aware Search Space
+|08|[eiai](#team-08)| THANOS: Integrating HPO and NAS for Hardware-Aware Transformer Optimization under Memory Size Constraints
 |09|[Jppin](#team-09)| 임산부를 위한 복약정보 연동, RAG 기반, 개인맞춤형 영양보충 가이드 시스템
 |10|[X10](#team-10)| 음성 분석 기반 졸음 감지 및 개인화된 음성 대화를 통한 졸음 운전 예방 서비스
 |11|[nAIvis](#team-11)| 지속 학습을 적용한 치명적 망각 해결과 Deep Fingerprinting model 강화
@@ -155,15 +155,15 @@
 [Return TOP](#list-of-teamsprojects)
  
 # Team-08
-| (1) 과제명 |  Transformer Architecture Search with Hardware Aware Search Space |
+| (1) 과제명 |  THANOS: Integrating HPO and NAS for Hardware-Aware Transformer Optimization under Memory Size Constraints |
 |:---  |---  |
 | (2) 팀 번호/이름 | 08-eiai |
-| (3) 구성원 | 김민서(2276046): 리더,*역할,...* <br> 김수현(2276067): 팀원,*역할,....* <br> 하지연(2271063): 팀원,*역할,....* |
+| (3) 구성원 | 김민서(2276046): 리더, AI, 선행연구 서칭, 연구 환경 세팅(소프트웨어: 운영체제 설정, 협업 툴 관리 및 지도, 오픈소스 등의 소프트웨어 버전 관리 등 / 하드웨어: NPU 장비 관리 및 설치), 실험에 필요한 파서 구현, 연구주제 탐색 및 논문 서칭, 기술 테스트 및 검증, 가설과 문제 제기 및 이에 따른 구현과 실험 진행, 논문 및 보고서 작성 <br> 김수현(2276067): 팀원, AI 관련 연구팀 팀원, 선행 논문 읽고 코드 분석, 선행 연구 코드의 수정 및 보완을 진행, 방법론 관련 논문 서칭, 보고서 작성 <br> 하지연(2271063): 팀원, AI 연구 팀원, 선행 연구 논문 리딩, 코드 분석, 아이디어를 위한 논문 서칭 및 구현, 보고서 작성|
 | (4) 지도교수 | 심재형 교수 |
 | (5) 트랙  | 연구 |
-| (6) 과제 키워드 | NAS, NPU, Transformer |
-| (7) 과제 내용 요약 |   |
-| (8) 주요 Link |  |
+| (6) 과제 키워드 | Hardware aware NAS, HPO, Efficient Transformer |
+| (7) 과제 내용 요약 | &nbsp; Transformer 모델은 NLP 분야에서 널리 사용되고 있지만, 모델의 크기와 연산량이 증가하면서 높은 컴퓨팅 자원을 요구하게 되었다. 특히 엣지 디바이스와 같은 제한된 환경에서는 모델의 추론에서의 지연과 메모리 사용에서의 제약과 같은 문제가 발생한다. 이러한 문제를 해결하기 위해, 하드웨어 제약을 고려한 경량화 모델 탐색이 필요하다. 본 논문은 NAS(Neural Architecture Search)와 HPO(Hyperparameter Optimization)를 결합한 기법을 통해 이를 해결하고자 한다. 즉, NAS를 통해 구조를 탐색하고, HPO를 통해 성능과 제약 조건 모두를 고려하는 최적의 모델을 찾는다. 특히 NAS의 거대한 서치 스페이스가 초래하는 서치 연산 문제와 메모리 제약조건에 대한 비인지성 문제를 HPO로 보완한다. 이를 통해 주어진 하드웨어에 최적화된 효율적인 트랜스포머 모델을 설계할 수 있다.  |
+| (8) 주요 Link | [ei-ai github organization](https://github.com/ei-ai) |
  
 <br>
  
