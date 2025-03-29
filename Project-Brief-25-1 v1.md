@@ -324,11 +324,11 @@
 | (1) 과제명 |  Lightweight Part-Aware 3D Texture Editing Using 2D Stable Diffusion |
 |:---  |---  |
 | (2) 팀 번호/이름 | 19-JEY |
-| (3) 구성원 | 이다예(1917026): 리더,*역할,...* <br> 이상은(2171036): 팀원,*역할,....* <br> 정지우(2171046): 팀원,*역할,....* |
+| (3) 구성원 | 이다예 (1917026): 리더, 아이디어 및 프로젝트 계획 관리, 2D-to-3D adaptation, 2D semantic segmentation 연구 및 개발, part segmentation 검증 <br> 이상은 (2171036): 팀원, 회의/면담 기록 정리 및 관리, Text to texture 연구 및 개발, 2D-to-3D adaptation, 2D semantic segmentation 검증 <br> 정지우 (2171046) : 팀원, 프로젝트 마일스톤 관리 및 공유 파일 관리, part segmentation 연구 및 개발, Text to texture 검증 |
 | (4) 지도교수 | 김영준 교수 |
 | (5) 트랙  | 연구 |
 | (6) 과제 키워드 | Semantic Part Segmentation, Controllable Diffusion, Texture generation |
-| (7) 과제 내용 요약 |   |
+| (7) 과제 내용 요약 | 본 연구는 고사양 3D 모델링 기술 없이도 특정 부위의 텍스처를 정밀하게 편집할 수 있는 2D 기반의 경량화된 텍스처링 프로세스를 제안한다. SyncDreamer를 활용하여 단일 이미지로부터 멀티뷰를 생성하고, VLPart와 SAM을 통해 2D 이미지에서 의미 기반 부위 분할을 수행한다. 이후 Text2LIVE를 활용해 텍스트 조건에 맞는 부위별 텍스처 편집을 적용한다. Aggregation 모듈을 통해 시점 간 마스크를 통합하고, refinement 단계에서 SyncDreamer 기반 정렬을 수행해 정합성을 높인다. 최종적으로 부위별 제어 정확도와 텍스처 품질을 동시에 확보하면서도 일반 사용자가 쉽게 접근할 수 있는 시스템을 구축하는 것을 목표로 한다. |
 | (8) 주요 Link |  |
  
 <br>
