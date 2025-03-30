@@ -132,8 +132,8 @@
 | (4) 지도교수 | 심재형 교수 |
 | (5) 트랙  | 산학 |
 | (6) 과제 키워드 | 바둑, LangChain, LAG, LLM |
-| (7) 과제 내용 요약 | AI를 통한 **쉬운 바둑 복기** 서비스 구축하기: <br> 바둑 AI엔진 KataGo, LLM(GPT), SGF-Analyze 오픈소스를 통합하여, 사용자가 업로드한 SGF 포맷의 바둑 기보를 분석 및 자동으로 해설을 생성하고 복기를 지원하는 시스템을 구축하는 것이 주요 과제입니다. |
-| (8) 주요 Link | [팀 리포지 저장소 링크](https://github.com/orgs/Team-Goggle/repositories) |
+| (7) 과제 내용 요약 | AI를 통한 **쉬운 바둑 복기** 서비스 구축하기: <br><br> 바둑 AI엔진 **KataGo**, **LLM(GPT)**, **SGF-Analyze** 오픈소스를 통합하여, 사용자가 업로드한 SGF 포맷의 바둑 기보를 분석 및 자동으로 해설을 생성하고 복기를 지원하는 시스템을 구축하는 것이 주요 과제입니다. |
+| (8) 주요 Link | [팀 저장소 링크](https://github.com/orgs/Team-Goggle/repositories) |
  
 <br>
  
