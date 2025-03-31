@@ -193,7 +193,7 @@
 | (5) 트랙  | 산학 |
 | (6) 과제 키워드 | 음성분석, 맞춤형 챗봇, 졸음운전 |
 | (7) 과제 내용 요약 | 본 프로젝트는 음성 분석 기술을 기반으로 운전자의 졸음을 실시간으로 감지하고, 생성형 AI를 기반으로 개인 맞춤형 음성 대화 기능을 제공하는 졸음 운전 사고 예방 서비스이다. 프롬프트 엔지니어링과 사용자의 초기 정보, 대화 중 수집된 데이터를 바탕으로 GPT-4o를 활용한 사용자 맞춤형 실시간 대화를 구현한다. 졸음 감지는 대화 중 운전자가 내는 하품 소리, 졸린 음색, ‘졸려’와 같은 키워드를 감지하는 방식으로 이루어진다. 졸음이 감지되면 경고 알림 소리와 함께 스트레칭 음성 안내를 제공하여 운전자가 졸음에서 벗어나도록 돕는다. 지속적인 대화를 통해 졸음 운전을 예방하고, 운전자가 지루함과 외로움을 느끼지 않도록 지원하는 서비스이다. |
-| (8) 주요 Link | https://github.com/orgs/EwhaCapstone-X10/repositories  |
+| (8) 주요 Link | 보고서 https://github.com/EwhaCapstone-X10/X10 <br> AI https://github.com/EwhaCapstone-X10/AI <br> Server https://github.com/EwhaCapstone-X10/Server <br> Client https://github.com/EwhaCapstone-X10/Client |
  
 <br>
  
