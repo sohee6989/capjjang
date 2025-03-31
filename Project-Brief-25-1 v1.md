@@ -354,11 +354,11 @@
 | (1) 과제명 |  Generating Missing Auditory Modality via Semantic Mapping for Video Action Recognition |
 |:---  |---  |
 | (2) 팀 번호/이름 | 21-가능한 |
-| (3) 구성원 | 김지은(2140010): 리더,*역할,...* <br> 윤서아(2168019): 팀원,*역할,....* <br> 장은성(2271052): 팀원,*역할,....* |
+| (3) 구성원 | 김지은 (2140010): 리더, *기본 데이터 전처리, caption-based dictionary 활용 아키텍처 설계 및 구현, transformer 활용 오디오 특징 추출* <br> 윤서아 (2168019): 팀원, *TSN 기반 feature extraction, BERT 활용 semantic mapping dictionary 설계* <br> 장은성 (2271052) : 팀원, *transformer 기반 프레임워크 중 video 전처리, feature 추출 부분 설계 및 구현* |
 | (4) 지도교수 | 이형준 교수 |
 | (5) 트랙  | 연구 |
 | (6) 과제 키워드 | Generative AI, Video Action Recognition, Multimodal, Semantic Mapping |
-| (7) 과제 내용 요약 |   |
+| (7) 과제 내용 요약 | 본 연구는 비디오 시퀀스를 기반으로 오디오 피처를 재구성하여, 결손된 오디오 데이터를 보완하고 이를 통해 모델의 정확도를 향상시키는 것을 목표로 한다. 이를 위해 비디오와 오디오 간의 의미적 정렬을 수행하는 개념인 Semantic Mapping을 차용하였다. 두 가지 아키텍처를 제안하는데, 공통적으로 비디오로부터 오디오 피처를 생성하지만, 검증 및 활용 방식에서 차이를 보인다. 첫 번째 아키텍처는 CNN과 LSTM을 활용하여 오디오 피처를 생성한 후, Semantic Dictionary를 이용해 의미적 유효성을 검증한다. 이 검증을 통과한 피처만 학습에 활용하는 방식이다. 두 번째 아키텍처는 Transformer를 활용해 대표 프레임을 추출하고, 캡션으로 변환한 뒤 이를 키로 사용하는 Semantic Dictionary을 만든다. 이 사전을 참조하여 오디오 피쳐를 생성해낸다. 두 아키텍처를 비교 분석함으로써, 의미 기반 피처 정렬 방식이 오디오 생성 및 영상 이해 성능에 미치는 영향을 규명하고자 한다. |
 | (8) 주요 Link |  |
  
 <br>
