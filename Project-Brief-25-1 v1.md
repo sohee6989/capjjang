@@ -354,7 +354,7 @@
 | (1) 과제명 |  Generating Missing Auditory Modality via Semantic Mapping for Video Action Recognition |
 |:---  |---  |
 | (2) 팀 번호/이름 | 21-가능한 |
-| (3) 구성원 | 김지은 (2140010): 리더, *기본 데이터 전처리, caption-based dictionary 활용 아키텍처 설계 및 구현, transformer 활용 오디오 특징 추출* <br> 윤서아 (2168019): 팀원, *TSN 기반 feature extraction, BERT 활용 semantic mapping dictionary 설계* <br> 장은성 (2271052) : 팀원, *transformer 기반 프레임워크 중 video 전처리, feature 추출 부분 설계 및 구현* |
+| (3) 구성원 | 김지은(2140010): 리더, *기본 데이터 전처리, caption-based dictionary 활용 아키텍처 설계 및 구현, transformer 활용 오디오 특징 추출* <br> 윤서아(2168019): 팀원, *TSN 기반 feature extraction, BERT 활용 semantic mapping dictionary 설계* <br> 장은성(2271052) : 팀원, *transformer 기반 프레임워크 중 video 전처리, feature 추출 부분 설계 및 구현* |
 | (4) 지도교수 | 이형준 교수 |
 | (5) 트랙  | 연구 |
 | (6) 과제 키워드 | Generative AI, Video Action Recognition, Multimodal, Semantic Mapping |
