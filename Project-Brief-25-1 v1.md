@@ -200,7 +200,7 @@
 [Return TOP](#list-of-teamsprojects)
  
 # Team-11
-| (1) 과제명 |  지속 학습을 적용한 치명적 망각 해결과 Deep Fingerprinting model 강화 |
+| (1) 과제명 |  Elastic Weight Consolidation을 활용한 Deep Fingerprinting: Catastrophic Forgetting 완화와 정확도 향상 |
 |:---  |---  |
 | (2) 팀 번호/이름 | 11-nAIvis |
 | (3) 구성원 | 배주원(2271031): 리더, 외부 소통 책임, 피드백과 과제 역할 문담, 학회 논문 제출 과정 책임, 실험 수행 및 논문 작성 <br> 신유진(2271034): 팀원, 실험 수행 및 논문 작성, 시각 자료 편집, Overleaf 관리 <br> 이서연(2276217): 팀원, 자료 신뢰성 확인 및 정리, 실험 수행 및 논문 작성 |
